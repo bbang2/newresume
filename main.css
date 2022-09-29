@@ -183,6 +183,10 @@ ul > li:before {
   padding: 1.5rem 0;
 }
 
+.project .others {
+  margin-bottom: 2rem;
+}
+
 .project:first-child {
   padding-top: 0;
 }
